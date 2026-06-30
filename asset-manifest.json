@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75cfcb02.css",
+    "main.js": "/static/js/main.0759e8b4.js",
+    "static/js/453.0d01b2e5.chunk.js": "/static/js/453.0d01b2e5.chunk.js",
+    "static/media/libre-barcode-39-latin-400-normal.woff2": "/static/media/libre-barcode-39-latin-400-normal.e5d55be28beff7a7c2d3.woff2",
+    "static/media/libre-barcode-39-latin-400-normal.woff": "/static/media/libre-barcode-39-latin-400-normal.16d2ab9ca05c8c363f0e.woff",
+    "index.html": "/index.html",
+    "main.75cfcb02.css.map": "/static/css/main.75cfcb02.css.map",
+    "main.0759e8b4.js.map": "/static/js/main.0759e8b4.js.map",
+    "453.0d01b2e5.chunk.js.map": "/static/js/453.0d01b2e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75cfcb02.css",
+    "static/js/main.0759e8b4.js"
+  ]
+}
